@@ -17,4 +17,4 @@ We had four weeks of hourly data taken for each building: 24 hours â¨‰ 7 days â¨
 After performing clustering on the staged data, we ran several machine learning algorithms, attaining a highest R^2 score of around 92%. 
 The details are in the attached jupyter notebok.
 
-We also have a UI component, that also users to dynamically witness the changes in consumption patterns on the next week. This can be accessed by running the 'main.py' script.
+We also have a UI component, that allows users to dynamically witness the changes in consumption patterns on the next week. This can be accessed by running the 'main.py' script.
